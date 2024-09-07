@@ -1,27 +1,22 @@
 ### Hi there 👋
 
-I'm Hesham Ali Hassan, a passionate Front-End Developer specializing in creating responsive and dynamic web applications. With a focus on React.js, I have experience building user-friendly designs and optimizing web performance. I'm always eager to learn new technologies and collaborate on innovative projects.
+I'm Hesham Ali Hassan, a passionate Front-End Developer from Beni Suef, Egypt. I specialize in building responsive and dynamic web applications using React.js, HTML, CSS, and JavaScript. I have a keen interest in creating user-friendly designs and optimizing web performance.
 
-- 🔭 I’m currently enhancing my skills as a Front-End Developer.
-- 🌱 I’m currently exploring mobile development and backend technologies.
-- 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about [React.js](https://react.dev), [Material UI](https://mui.com/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS).
-- 📫 How to reach me:
+- 🔭 I’m currently working on enhancing my front-end development skills.
+- 🌱 I’m learning more about UI/UX design and exploring new frameworks.
+- 👯 I’m open to collaborating on exciting web development projects.
+- 💬 Feel free to ask me about React, JavaScript, HTML, CSS, Material UI, and Vite.
 
-  [!["Follow me on Twitter"](https://img.shields.io/twitter/follow/tarekalabd?label=Follow%20me)](https://twitter.com/tarekalabd)
-  [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/heshamalihassan)
-  [!["Facebook"](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100026421549171&mibextid=LQQJ4d)
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/heshamalihassan/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Dev-HeshamAli)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100026421549171&mibextid=LQQJ4d)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hesahmaloo9@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/201228870255)
 
-### Some Projects
-- **Daily Expenses Tracker** ([Live Demo](https://mui-gray.vercel.app/)) - A website for tracking daily expenses using Material UI. Features dark mode and requires running `npx json-server --watch data/db.json --port 3200` before starting.
-- **Social Application** ([Live Demo](https://mui-vite.vercel.app/)) - A social application built with Material UI and Vite. Features dark mode.
-- **Simple Requesting Loan Form** ([Live Demo](https://form-react-ecru-ten.vercel.app/)) - A simple form for requesting loans using React.
-
-### Github Stats
-[![Hesham's Github Stats](https://github-readme-stats.vercel.app/api?username=Dev-HeshamAli&count_private=true&theme=default&show_icons=true&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Dev-HeshamAli)
-
-### Want to support?
-
-If you find my work valuable, consider supporting me by buying me a **Coffee**.
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tarekalabd)
+### A Little More About Me:
+```yaml
+💼 Current Role: Aspiring Front-End Developer
+🎓 Education: Faculty of Computers and Artificial Intelligence, Beni Suef University
+🌐 Location: Beni Suef, Egypt
+💡 Interests: UI/UX Design, Node.js, Next.js, TypeScript, SASS
