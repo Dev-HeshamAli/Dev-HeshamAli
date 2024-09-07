@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Hesham Ali Hassan, a passionate Front-End Developer from Beni Suef, Egypt. I specialize in building responsive and dynamic web applications using React.js, HTML, CSS, and JavaScript. I enjoy working with frameworks and tools like Bootstrap, Material UI, and Vite.
+I'm Hesham Ali Hassan, Front-End Developer from Beni Suef, Egypt. I specialize in building responsive and dynamic web applications using React.js, HTML, CSS, and JavaScript. I enjoy working with frameworks and tools like Bootstrap, Material UI, and Vite.
 
 - 🌱 I’m currently exploring back-end development with Node.js and Next.js, and enhancing my skills in TypeScript and UI/UX design.
 - 💬 Feel free to ask me about React.js, HTML, CSS, JavaScript, and Vite.
