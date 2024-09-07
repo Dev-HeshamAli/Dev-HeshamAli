@@ -12,7 +12,7 @@ I'm Hesham Ali Hassan, a passionate Front-End Developer from Beni Suef, Egypt. I
     [!["WhatsApp"](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/201228870255)
 
 ### In Numbers
-- 🌟 **7 Completed Projects:** From simple HTML/CSS sites to dynamic React applications.
+- 🌟 **10 Completed Projects:** From simple HTML/CSS sites to dynamic React applications.
 - 🛠️ **Skills:** Proficient in React.js, HTML, CSS, JavaScript, Bootstrap, Material UI, and Vite.
 - 💻 **Tools I Use:** Git, GitHub, Chrome DevTools, Vite.
 
@@ -29,5 +29,12 @@ Beyond coding, I'm interested in:
 - 🌐 Web Performance Optimization
 - 🎨 UI/UX Design Trends
 - 🧠 Problem Solving and Algorithms
+
+### A Little More About Me:
+```yaml
+💼 Current Role: Aspiring Front-End Developer
+🎓 Education: Faculty of Computers and Artificial Intelligence, Beni Suef University
+🌐 Location: Beni Suef, Egypt
+💡 Interests: UI/UX Design, Node.js, Next.js, TypeScript, SASS
 
 Feel free to connect with me on the platforms above, and let's create something amazing together!
