@@ -1,15 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Hesham Ali Hassan</h1>
+<h3 align="center">Front-End Developer | Beni Suef, Egypt</h3>
 
-I'm Hesham Ali Hassan, Front-End Developer from Beni Suef, Egypt. I specialize in building responsive and dynamic web applications using React.js, HTML, CSS, and JavaScript. I enjoy working with frameworks and tools like Bootstrap, Material UI, and Vite.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="GIF" width="300" />
+</p>
 
 - 🌱 I’m currently exploring back-end development with Node.js and Next.js, and enhancing my skills in TypeScript and UI/UX design.
 - 💬 Feel free to ask me about React.js, HTML, CSS, JavaScript, and Vite.
 - 📫 How to reach me:
 
-    [!["Facebook"](https://img.shields.io/badge/Facebook-%231877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100026421549171&mibextid=LQQJ4d)
-    [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heshamalihassan/)
-    [!["GitHub"](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Dev-HeshamAli)
-    [!["WhatsApp"](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/201228870255)
+    [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100026421549171&mibextid=LQQJ4d)
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heshamalihassan/)
+    [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Dev-HeshamAli)
+    [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/201228870255)
 
 ### In Numbers
 - 🌟 **10 Completed Projects:** From simple HTML/CSS sites to dynamic React applications.
@@ -36,5 +39,3 @@ Beyond coding, I'm interested in:
 🎓 Education: Faculty of Computers and Artificial Intelligence, Beni Suef University
 🌐 Location: Beni Suef, Egypt
 💡 Interests: UI/UX Design, Node.js, Next.js, TypeScript, SASS
-
-Feel free to connect with me on the platforms above, and let's create something amazing together!
