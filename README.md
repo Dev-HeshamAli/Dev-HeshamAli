@@ -72,7 +72,7 @@ Beyond coding, I'm interested in:
 
 ### A Little More About Me:
 ```yaml
-💼 Current Role: Aspiring Front-End Developer
+💼 Current: Front-End Developer
 🎓 Education: Faculty of Computers and Artificial Intelligence, Beni Suef University
 🌐 Location: Beni Suef, Egypt
 💡 Interests: UI/UX Design, Node.js, Next.js, TypeScript, SASS
