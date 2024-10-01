@@ -15,7 +15,7 @@
     [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/201228870255)
 
 ### In Numbers
-- 🌟 **10 Completed Projects:** From simple HTML/CSS sites to dynamic React applications.
+- 🌟 **12 Completed Projects:** From simple HTML/CSS sites to dynamic React applications.
 - 🛠️ **Skills:** Proficient in React.js, HTML, CSS, JavaScript, Bootstrap, Material UI, and Vite.
 - 💻 **Tools I Use:** Git, GitHub, Chrome DevTools, Vite.
 
